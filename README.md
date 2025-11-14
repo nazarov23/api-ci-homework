@@ -1,6 +1,6 @@
 # API Testing Homework
 
-[![Java CI with Gradle](https://github.com/ВАШ_USERNAME/ВАШ_REPOSITORY/actions/workflows/gradle.yml/badge.svg)](https://github.com/ВАШ_USERNAME/ВАШ_REPOSITORY/actions/workflows/gradle.yml)
+[![Java CI](https://github.com/nazarov23/api-ci-homework/actions/workflows/gradle.yml/badge.svg)](https://github.com/nazarov23/api-ci-homework/actions/workflows/gradle.yml)
 
 Домашнее задание по тестированию API и настройке CI/CD.
 
